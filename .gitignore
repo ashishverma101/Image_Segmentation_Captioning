@@ -1,0 +1,11 @@
+
+# Large trained model checkpoints stay local; don't include them in Git.
+/saved_models/image_captioning_coco_weights.weights.h5
+/saved_models/segmentation_model.h5
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+tmp.jpg
+saved_models/
+saved_vocabulary/

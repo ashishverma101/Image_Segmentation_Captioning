@@ -1,0 +1,10 @@
+streamlit
+requests
+Pillow
+numpy
+pandas
+tensorflow
+torch
+torchvision
+matplotlib
+opencv-python
